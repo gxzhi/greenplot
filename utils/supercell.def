@@ -6,6 +6,6 @@ wannier90_hr.dat
  -1  1  0
   0  0  1
 
-  5  12  5
-   1
-  0.0  0.0  0.0
+  5  12  5   %有建议的, 运行到一半会有提示 recommended size for supercell
+   1         %元胞里 wannier 轨道个数
+  0.0  0.0  0.0 %WF centre in .wout
